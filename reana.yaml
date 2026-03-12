@@ -7,4 +7,4 @@ workflow:
   file: workflow/cwl/crab.cwl
 outputs:
   files:
-   - cwl/docker_outdir/cwl.output.json
+    - cwl/docker_outdir/cwl.output.json
